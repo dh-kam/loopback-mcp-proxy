@@ -1,0 +1,7 @@
+/target
+/build
+/data
+/web/node_modules
+/web/dist
+**/*.rs.bk
+.DS_Store
